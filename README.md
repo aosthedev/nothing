@@ -1,0 +1,4 @@
+- 👋 Hello, I'm YoungAos
+- 🌴 I'm the creator of Fluxus Coral
+- 🤖 I'm a bot develiper
+- 🔪 My favourite coding language is Python.
