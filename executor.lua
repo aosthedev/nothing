@@ -159,7 +159,7 @@ Button.Parent = Main
 Button.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Button.Position = UDim2.new(0.291587591, 0, 0.728915751, 0)
 Button.Size = UDim2.new(0.340340346, 0, 0.204819277, 0)
-Button.Text = "OPEN"
+Button.Image = "rbxassetid://13746818512"
 Button.ScaleType = Enum.ScaleType.Crop
 
 UICorner_7.CornerRadius = UDim.new(0, 25)
