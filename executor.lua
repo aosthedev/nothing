@@ -320,7 +320,7 @@ OpenButton.BackgroundTransparency = 0.500
 OpenButton.Position = UDim2.new(0.131131127, 0, 0.0963855386, 0)
 OpenButton.Size = UDim2.new(0, 62, 0, 72)
 OpenButton.Visible = false
-OpenButton.Image = "rbxassetid://13746818512"
+OpenButton.Text = "OPEN"
 
 UICorner_12.CornerRadius = UDim.new(0, 20)
 UICorner_12.Parent = OpenButton
