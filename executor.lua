@@ -249,7 +249,7 @@ TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.Position = UDim2.new(0.0531400964, 0, 0.16704379, 0)
 TextLabel_3.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_3.Font = Enum.Font.GothamBold
-TextLabel_3.Text = "GabryGreen = COO & DEVELOPER"
+TextLabel_3.Text = "GabryGreen = COO"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextSize = 14.000
 
@@ -259,7 +259,7 @@ TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.Position = UDim2.new(0.0531400964, 0, 0.247767508, 0)
 TextLabel_4.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_4.Font = Enum.Font.GothamBold
-TextLabel_4.Text = "6vinn = DEVELOPER"
+TextLabel_4.Text = "6vinn = DEV"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.TextSize = 14.000
 
@@ -289,7 +289,7 @@ TextLabel_7.BackgroundTransparency = 1.000
 TextLabel_7.Position = UDim2.new(0.0531400964, 0, 0.481351018, 0)
 TextLabel_7.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_7.Font = Enum.Font.GothamBold
-TextLabel_7.Text = "XLukWater = GUI MAKER"
+TextLabel_7.Text = "XLukWater = GUI"
 TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_7.TextSize = 14.000
 
