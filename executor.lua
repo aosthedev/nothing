@@ -309,7 +309,7 @@ TextLabel_9.BackgroundTransparency = 1.000
 TextLabel_9.Position = UDim2.new(0.0531400964, 0, 0.65310359, 0)
 TextLabel_9.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_9.Font = Enum.Font.GothamBold
-TextLabel_9.Text = "Spyro"
+TextLabel_9.Text = "fragrantboyy"
 TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_9.TextSize = 14.000
 
@@ -320,7 +320,7 @@ OpenButton.BackgroundTransparency = 0.500
 OpenButton.Position = UDim2.new(0.131131127, 0, 0.0963855386, 0)
 OpenButton.Size = UDim2.new(0, 62, 0, 72)
 OpenButton.Visible = false
-OpenButton.Text = "OPEN"
+OpenButton.Image = "rbxassetid://5261175692"
 
 UICorner_12.CornerRadius = UDim.new(0, 20)
 UICorner_12.Parent = OpenButton
