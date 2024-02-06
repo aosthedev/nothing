@@ -60,7 +60,7 @@ Executor.Parent = Main
 Executor.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Executor.Position = UDim2.new(0.291587591, 0, 0.156626493, 0)
 Executor.Size = UDim2.new(0.341341347, 0, 0.546184719, 0)
-Executor.Image = "rbxassetid://13746818512"
+Executor.Image = "rbxassetid://4483345998"
 
 UICorner.CornerRadius = UDim.new(0, 25)
 UICorner.Parent = Executor
