@@ -86,7 +86,7 @@ ExeButt.BackgroundColor3 = Color3.fromRGB(22, 31, 62)
 ExeButt.Position = UDim2.new(0.0527859256, 0, 0.753676474, 0)
 ExeButt.Size = UDim2.new(0.425219953, 0, 0.183823526, 0)
 ExeButt.Font = Enum.Font.GothamBold
-ExeButt.Text = "Execute from Textbox"
+ExeButt.Text = "Execute"
 ExeButt.TextColor3 = Color3.fromRGB(95, 122, 163)
 ExeButt.TextSize = 14.000
 
@@ -99,7 +99,7 @@ ClearButt.BackgroundColor3 = Color3.fromRGB(22, 31, 62)
 ClearButt.Position = UDim2.new(0.521994114, 0, 0.753676474, 0)
 ClearButt.Size = UDim2.new(0.425219953, 0, 0.183823526, 0)
 ClearButt.Font = Enum.Font.GothamBold
-ClearButt.Text = "Clear Textbox"
+ClearButt.Text = "Clear"
 ClearButt.TextColor3 = Color3.fromRGB(95, 122, 163)
 ClearButt.TextSize = 14.000
 
@@ -171,7 +171,7 @@ Home.BackgroundColor3 = Color3.fromRGB(10, 34, 88)
 Home.BackgroundTransparency = 0.200
 Home.Position = UDim2.new(0.411764622, 0, 0.207239956, 0)
 Home.Size = UDim2.new(0.173529416, 0, 0.612580776, 0)
-Home.Image = "rbxassetid://13746818512"
+Home.Image = "rbxassetid://5261175692"
 
 UICorner_8.Parent = Home
 
@@ -249,7 +249,7 @@ TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.Position = UDim2.new(0.0531400964, 0, 0.16704379, 0)
 TextLabel_3.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_3.Font = Enum.Font.GothamBold
-TextLabel_3.Text = "Corazon"
+TextLabel_3.Text = "XLukWater"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextSize = 14.000
 
@@ -320,7 +320,7 @@ OpenButton.BackgroundTransparency = 0.500
 OpenButton.Position = UDim2.new(0.131131127, 0, 0.0963855386, 0)
 OpenButton.Size = UDim2.new(0, 62, 0, 72)
 OpenButton.Visible = false
-OpenButton.Image = "rbxassetid://5261175692"
+OpenButton.Image = "rbxassetid://13746818512"
 
 UICorner_12.CornerRadius = UDim.new(0, 20)
 UICorner_12.Parent = OpenButton
