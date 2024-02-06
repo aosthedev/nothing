@@ -60,7 +60,7 @@ Executor.Parent = Main
 Executor.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Executor.Position = UDim2.new(0.291587591, 0, 0.156626493, 0)
 Executor.Size = UDim2.new(0.341341347, 0, 0.546184719, 0)
-Executor.Image = "rbxassetid://4483345998"
+Executor.Image = "rbxassetid://13746818512"
 
 UICorner.CornerRadius = UDim.new(0, 25)
 UICorner.Parent = Executor
@@ -73,7 +73,7 @@ TextBox.Size = UDim2.new(0.894428134, 0, 0.466911763, 0)
 TextBox.ClearTextOnFocus = false
 TextBox.Font = Enum.Font.GothamBold
 TextBox.MultiLine = true
-TextBox.Text = "Thank you for using Neptune <3"
+TextBox.Text = "Thank you for using Neptune <3 This is only a concept in a gui. This is not the release!"
 TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox.TextSize = 14.000
 TextBox.TextWrapped = true
@@ -159,7 +159,7 @@ Button.Parent = Main
 Button.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Button.Position = UDim2.new(0.291587591, 0, 0.728915751, 0)
 Button.Size = UDim2.new(0.340340346, 0, 0.204819277, 0)
-Button.Image = "rbxassetid://4483345998"
+Button.Image = "rbxassetid://13746818512"
 Button.ScaleType = Enum.ScaleType.Crop
 
 UICorner_7.CornerRadius = UDim.new(0, 25)
@@ -182,7 +182,7 @@ TextBox_2.Position = UDim2.new(0.052941177, 0, 0.264705896, 0)
 TextBox_2.Size = UDim2.new(0.31764707, 0, 0.490196079, 0)
 TextBox_2.Font = Enum.Font.GothamBold
 TextBox_2.PlaceholderColor3 = Color3.fromRGB(26, 111, 191)
-TextBox_2.PlaceholderText = "WalkSpeed"
+TextBox_2.PlaceholderText = "Speed"
 TextBox_2.Text = ""
 TextBox_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextBox_2.TextSize = 14.000
@@ -196,7 +196,7 @@ TextBox_3.Position = UDim2.new(0.632352889, 0, 0.264705896, 0)
 TextBox_3.Size = UDim2.new(0.31764707, 0, 0.490196079, 0)
 TextBox_3.Font = Enum.Font.GothamBold
 TextBox_3.PlaceholderColor3 = Color3.fromRGB(26, 111, 191)
-TextBox_3.PlaceholderText = "JumpPower"
+TextBox_3.PlaceholderText = "Jump power"
 TextBox_3.Text = ""
 TextBox_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextBox_3.TextSize = 14.000
@@ -229,7 +229,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(0.0531400964, 0, 0.00731390342, 0)
 TextLabel.Size = UDim2.new(0, 180, 0, 50)
 TextLabel.Font = Enum.Font.GothamBold
-TextLabel.Text = "Credits"
+TextLabel.Text = "CREDITS"
 TextLabel.TextColor3 = Color3.fromRGB(170, 0, 0)
 TextLabel.TextSize = 14.000
 
@@ -239,7 +239,7 @@ TextLabel_2.BackgroundTransparency = 1.000
 TextLabel_2.Position = UDim2.new(0.0483091772, 0, 0.0772357732, 0)
 TextLabel_2.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_2.Font = Enum.Font.GothamBold
-TextLabel_2.Text = "YoungAOS"
+TextLabel_2.Text = "YoungAos = CEO"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 14.000
 
@@ -249,7 +249,7 @@ TextLabel_3.BackgroundTransparency = 1.000
 TextLabel_3.Position = UDim2.new(0.0531400964, 0, 0.16704379, 0)
 TextLabel_3.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_3.Font = Enum.Font.GothamBold
-TextLabel_3.Text = "XLukWater"
+TextLabel_3.Text = "GabryGreen = COO & DEVELOPER"
 TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_3.TextSize = 14.000
 
@@ -259,7 +259,7 @@ TextLabel_4.BackgroundTransparency = 1.000
 TextLabel_4.Position = UDim2.new(0.0531400964, 0, 0.247767508, 0)
 TextLabel_4.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_4.Font = Enum.Font.GothamBold
-TextLabel_4.Text = "6vinn"
+TextLabel_4.Text = "6vinn = DEVELOPER"
 TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_4.TextSize = 14.000
 
@@ -269,7 +269,7 @@ TextLabel_5.BackgroundTransparency = 1.000
 TextLabel_5.Position = UDim2.new(0.0531400964, 0, 0.309598446, 0)
 TextLabel_5.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_5.Font = Enum.Font.GothamBold
-TextLabel_5.Text = "GabryGreen"
+TextLabel_5.Text = "Syctro = TESTER"
 TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_5.TextSize = 14.000
 
@@ -279,7 +279,7 @@ TextLabel_6.BackgroundTransparency = 1.000
 TextLabel_6.Position = UDim2.new(0.0531400964, 0, 0.395474732, 0)
 TextLabel_6.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_6.Font = Enum.Font.GothamBold
-TextLabel_6.Text = "verlox"
+TextLabel_6.Text = "fragrantboy = MOD"
 TextLabel_6.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_6.TextSize = 14.000
 
@@ -289,7 +289,7 @@ TextLabel_7.BackgroundTransparency = 1.000
 TextLabel_7.Position = UDim2.new(0.0531400964, 0, 0.481351018, 0)
 TextLabel_7.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_7.Font = Enum.Font.GothamBold
-TextLabel_7.Text = "InFloppa"
+TextLabel_7.Text = "XLukWater = GUI MAKER"
 TextLabel_7.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_7.TextSize = 14.000
 
@@ -299,7 +299,7 @@ TextLabel_8.BackgroundTransparency = 1.000
 TextLabel_8.Position = UDim2.new(0.0531400964, 0, 0.567227304, 0)
 TextLabel_8.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_8.Font = Enum.Font.GothamBold
-TextLabel_8.Text = "TheLastShinigami"
+TextLabel_8.Text = "Sturm = MOD"
 TextLabel_8.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_8.TextSize = 14.000
 
@@ -309,7 +309,7 @@ TextLabel_9.BackgroundTransparency = 1.000
 TextLabel_9.Position = UDim2.new(0.0531400964, 0, 0.65310359, 0)
 TextLabel_9.Size = UDim2.new(0, 180, 0, 50)
 TextLabel_9.Font = Enum.Font.GothamBold
-TextLabel_9.Text = "fragrantboyy"
+TextLabel_9.Text = "Tiahh = LEAD DEV"
 TextLabel_9.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_9.TextSize = 14.000
 
