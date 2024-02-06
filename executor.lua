@@ -159,7 +159,7 @@ Button.Parent = Main
 Button.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Button.Position = UDim2.new(0.291587591, 0, 0.728915751, 0)
 Button.Size = UDim2.new(0.340340346, 0, 0.204819277, 0)
-Button.Image = "rbxassetid://13746818512"
+Button.Image = "rbxassetid://4483345998"
 Button.ScaleType = Enum.ScaleType.Crop
 
 UICorner_7.CornerRadius = UDim.new(0, 25)
@@ -171,7 +171,7 @@ Home.BackgroundColor3 = Color3.fromRGB(10, 34, 88)
 Home.BackgroundTransparency = 0.200
 Home.Position = UDim2.new(0.411764622, 0, 0.207239956, 0)
 Home.Size = UDim2.new(0.173529416, 0, 0.612580776, 0)
-Home.Image = "rbxassetid://5261175692"
+Home.Image = "rbxassetid://13746818512"
 
 UICorner_8.Parent = Home
 
